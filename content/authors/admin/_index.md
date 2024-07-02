@@ -46,6 +46,5 @@ profiles:
     label: Download my resume
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Sahith Manchikanti, a Senior Full Stack Java Developer with 9 years of experience. My expertise lies in Java-based applications, utilizing a wide array of technologies and frameworks like Spring, Hibernate, Angular, and React. I thrive in collaborative environments, driving projects from planning to deployment with a keen focus on quality and efficiency. With a strong background in both frontend and backend development, I've excelled in optimizing application performance and enhancing user experience. I'm passionate about staying updated with emerging technologies and methodologies, always seeking to innovate and deliver impactful solutions. Outside of work, I enjoy exploring new coding challenges and mentoring junior developers to foster growth within the team.
+
